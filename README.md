@@ -10,7 +10,7 @@ Utility tokens are digital assets that are designed to provide access to a produ
 
 ## About Unique Finance Company
 
-Unique Finance Company is a stock broker that Founded in Zurich, Switzerland. The company's main website is unique.finance. The product of our company is ATS (Auto Trading System), which was unveiled in 2017. Our robot works with high frequency software and uses now and past analysis of stocks to trade and earn profits from the stock market.
+Unique Finance Company is a stock broker that Founded in Zurich, Switzerland. The company's main website is [unique.finance](https://unique.finance/). The product of our company is ATS (Auto Trading System), which was unveiled in 2017. Our robot works with high frequency software and uses now and past analysis of stocks to trade and earn profits from the stock market.
 
 ## About Unique Finance
 
@@ -19,11 +19,11 @@ The use of the Nasdaq logo is frequently seen in welcome emails and on Unique Fi
 
 ## About Company Partners
 
- The first partner of Unique Finance is global portfolio management company that bought 51% of company shares in March 2017. The website of this company is gpm.ltd, and register code is 6346378. The second partner is the company representative is in the UAE, its name’s unique portfolio management, and the register code is 10876887. The third partner is unique financial website company in London, and the register code is 10733761.
+The first partner of Unique Finance is global portfolio management company that bought 51% of company shares in March 2017. The website of this company is [gpm.ltd](https://gpm.ltd/), and register code is 6346378. The second partner is the company representative is in the UAE, its name’s unique portfolio management, and the register code is 10876887. The third partner is unique financial website company in London, and the register code is 10733761.
 
 ## Associates Portal
 
-All responsibilities of the Associates Portal segment of the company are under our respective representatives. The only active portal link for our clients is portal.gpm.ltd. (It’s being updated.)
+All responsibilities of the Associates Portal segment of the company are under our respective representatives. The only active portal link for our clients is [portal.gpm.ltd](https://portal.gpm.ltd/). (It’s being updated.)
 
 ## The Company's Service to clients
 
